@@ -11,6 +11,8 @@
 # production
 /build
 
+.robots.txt.icloud
+
 # misc
 .DS_Store
 .env.local
